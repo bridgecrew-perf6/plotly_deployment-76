@@ -1,0 +1,23 @@
+body {
+    font-family: 'Times New Roman', serif;
+}
+
+.jumbotron {
+    /* image by Jeremy Bishop. obtained from https://unsplash.com/photos/G9i_plbfDgk */
+    background-image: url("../images/jeremy-bishop-G9i_plbfDgk-unsplash.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color:	white;
+}
+
+.well {
+    background: rgb(22, 105, 173);
+}
+
+h5 {
+    color: white;
+}
+
+h6 {
+    font-weight: bold;
+}
